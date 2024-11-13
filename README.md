@@ -20,9 +20,10 @@ Becky. Like the name!
  
 ## ![PlayStation 3 - Persona 5 - SaveLoadn04](https://github.com/user-attachments/assets/cc4585c7-7105-44f4-b773-b173d65879cf) My Stats
 
-![](https://github-readme-stats.vercel.app/api?username=m-beke&theme=radical&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true&title_color=FC0000&text_color=E9E8E7&border_color=E9E8E7&bg_color=0C0B0B) ![PlayStation 3 - Persona 5 - SaveLoaddiv](https://github.com/user-attachments/assets/c5bda313-6355-4b22-a099-61a410e6a572) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-beke&exclude_days=Sun%2CSat&background=0C0B0B&border=E9E8E7&ring=FC0000&fire=FC0000&currStreakLabel=E9E8E7&stroke=E9E8E7&currStreakNum=E9E8E7&sideNums=E9E8E7&sideLabels=E9E8E7&dates=FC0000&excludeDaysLabel=FFFFFF00)](https://git.io/streak-stats)<br> 
-<br>
-<br>
+![](https://github-readme-stats.vercel.app/api?username=m-beke&theme=radical&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true&title_color=FC0000&text_color=E9E8E7&border_color=E9E8E7&bg_color=0C0B0B) ![PlayStation 3 - Persona 5 - SaveLoaddiv](https://github.com/user-attachments/assets/c5bda313-6355-4b22-a099-61a410e6a572) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-beke&exclude_days=Sun%2CSat&card_width=440&background=0C0B0B&border=E9E8E7&ring=FC0000&fire=FC0000&currStreakLabel=E9E8E7&stroke=E9E8E7&currStreakNum=E9E8E7&sideNums=E9E8E7&sideLabels=E9E8E7&dates=FC0000&excludeDaysLabel=FFFFFF00&hide_longest_streak=true)](https://git.io/streak-stats)<br> 
+
+![Frame 4](https://github.com/user-attachments/assets/9a93420b-c3b3-4356-b604-466effb1b05d)
+
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-beke&theme=radical&layout=normal&hide_border=false&include_all_commits=true&count_private=true&title_color=FC0000&text_color=E9E8E7&border_color=E9E8E7&bg_color=0C0B0B) ![PlayStation 3 - Persona 5 - SaveLoaddiv](https://github.com/user-attachments/assets/84189d32-fbd9-4ec4-8421-f9869e260b61) ![](https://github-contributor-stats.vercel.app/api?username=m-beke&limit=4&theme=radical&card_width=100px&combine_all_yearly_contributions=true&title_color=FC0000&text_color=E9E8E7&border_color=E9E8E7&bg_color=0C0B0B)
 <br>
