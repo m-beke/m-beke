@@ -6,9 +6,21 @@
 Becky. Like the name!
 <br>
 <br>
+<br>
+![PlayStation 3 - Persona 5 - Shop Portraitssolodoc1](https://github.com/user-attachments/assets/7e4da61e-1323-4fae-8fd3-033f12e4b1bf)
+<br>
+<br>
 
 ## ![PlayStation 3 - Persona 5 - SaveLoadn02](https://github.com/user-attachments/assets/474a6e74-9e4a-4adb-be49-1700a6a36b4c) About Me
  
+<ul>
+ <li>
+  test
+ </li>
+ <li>
+  test
+ </li>
+</ul>
 
 ## ![PlayStation 3 - Persona 5 - SaveLoadn03](https://github.com/user-attachments/assets/4e967c29-79dd-4491-8db1-a0dc313d622e) My Tech Stack
 
