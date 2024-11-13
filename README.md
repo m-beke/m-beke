@@ -3,23 +3,22 @@
 
 # ![PlayStation 3 - Persona 5 - SaveLoadno1](https://github.com/user-attachments/assets/121b5104-7b29-4148-b45c-2eae190839af) How is that Pronounced?
 
-Becky. Like the name!
-<br>
-<br>
-<br>
-![PlayStation 3 - Persona 5 - Shop Portraitssolodoc1](https://github.com/user-attachments/assets/7e4da61e-1323-4fae-8fd3-033f12e4b1bf)
-<br>
-<br>
+**"Becky"** 
+
+![PlayStation 3 - Persona 5 - Shop Portraitssolodoc (Custom)](https://github.com/user-attachments/assets/d8420cd8-d8ed-457f-b259-7629340c3f97)
 
 ## ![PlayStation 3 - Persona 5 - SaveLoadn02](https://github.com/user-attachments/assets/474a6e74-9e4a-4adb-be49-1700a6a36b4c) About Me
  
 <ul>
  <li>
-  test
+  :movie_camera: I have a background in Film & TV Production.
  </li>
  <li>
-  test
- </li>
+  :computer: I recently developed a passion for coding and I love to learn new technologies.
+ </li> 
+ <li>
+  :musical_score: In my free time, I like to read, play music, game, and write about the things I love!
+ </li> 
 </ul>
 
 ## ![PlayStation 3 - Persona 5 - SaveLoadn03](https://github.com/user-attachments/assets/4e967c29-79dd-4491-8db1-a0dc313d622e) My Tech Stack
