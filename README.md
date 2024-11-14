@@ -1,6 +1,5 @@
 ![Sequence 01_2](https://github.com/user-attachments/assets/0ed8fb07-ee1d-4044-8f8f-1aec58276370)
 
-
 # ![PlayStation 3 - Persona 5 - SaveLoadno1](https://github.com/user-attachments/assets/121b5104-7b29-4148-b45c-2eae190839af) How is that Pronounced?
 
 **"Becky"**
