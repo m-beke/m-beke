@@ -3,9 +3,9 @@
 
 # ![PlayStation 3 - Persona 5 - SaveLoadno1](https://github.com/user-attachments/assets/121b5104-7b29-4148-b45c-2eae190839af) How is that Pronounced?
 
-**"Becky"** 
+**"Becky"**
 
-![PlayStation 3 - Persona 5 - Shop Portraitssolodoc (Custom)](https://github.com/user-attachments/assets/d8420cd8-d8ed-457f-b259-7629340c3f97)
+<br>
 
 ## ![PlayStation 3 - Persona 5 - SaveLoadn02](https://github.com/user-attachments/assets/474a6e74-9e4a-4adb-be49-1700a6a36b4c) About Me
  
@@ -56,10 +56,6 @@
   </td>
  <td>
   <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"></img>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></img>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
  </td>
