@@ -1,12 +1,6 @@
 ![Sequence 01_2](https://github.com/user-attachments/assets/0ed8fb07-ee1d-4044-8f8f-1aec58276370)
 
-# ![PlayStation 3 - Persona 5 - SaveLoadno1](https://github.com/user-attachments/assets/121b5104-7b29-4148-b45c-2eae190839af) How is that Pronounced?
-
-**"Becky"**
-
-<br>
-
-## ![PlayStation 3 - Persona 5 - SaveLoadn02](https://github.com/user-attachments/assets/474a6e74-9e4a-4adb-be49-1700a6a36b4c) About Me
+# ![PlayStation 3 - Persona 5 - SaveLoadno1](https://github.com/user-attachments/assets/121b5104-7b29-4148-b45c-2eae190839af) About Me
  
 <ul>
  <li>
@@ -20,7 +14,9 @@
  </li> 
 </ul>
 
-## ![PlayStation 3 - Persona 5 - SaveLoadn03](https://github.com/user-attachments/assets/4e967c29-79dd-4491-8db1-a0dc313d622e) My Tech Stack
+<br>
+
+## ![PlayStation 3 - Persona 5 - SaveLoadn02](https://github.com/user-attachments/assets/474a6e74-9e4a-4adb-be49-1700a6a36b4c) My Tech Stack
 
 <table>
     <tr>
@@ -63,7 +59,7 @@
 
 <br>
 
-## ![PlayStation 3 - Persona 5 - SaveLoadn04](https://github.com/user-attachments/assets/cc4585c7-7105-44f4-b773-b173d65879cf) My Stats
+## ![PlayStation 3 - Persona 5 - SaveLoadn03](https://github.com/user-attachments/assets/4e967c29-79dd-4491-8db1-a0dc313d622e) My Stats
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=m-beke&exclude_days=Sun%2CSat&card_width=440&background=0C0B0B&border=E9E8E7&stroke=E9E8E7&ring=FC0000&fire=FC0000&currStreakNum=E9E8E7&sideNums=E9E8E7&currStreakLabel=E9E8E7&sideLabels=E9E8E7&dates=FC0000&excludeDaysLabel=EB545400&hide_longest_streak=true)](https://git.io/streak-stats)  ![PlayStation 3 - Persona 5 - SaveLoaddiv](https://github.com/user-attachments/assets/c5bda313-6355-4b22-a099-61a410e6a572) ![](https://github-readme-stats.vercel.app/api?username=m-beke&theme=radical&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true&title_color=FC0000&text_color=E9E8E7&border_color=E9E8E7&bg_color=0C0B0B)<br>
@@ -75,9 +71,17 @@
 <br>
 <br>
 
-## ![PlayStation 3 - Persona 5 - SaveLoadn05](https://github.com/user-attachments/assets/409ef817-be26-4faa-9813-6be2d196b5e1) My GitHub Trophies
+## ![PlayStation 3 - Persona 5 - SaveLoadn04](https://github.com/user-attachments/assets/cc4585c7-7105-44f4-b773-b173d65879cf) My GitHub Trophies 
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m-beke&theme=buddhism&no-bg=true&no-frame=true)](https://github.com/m-beke/github-profile-trophy)
+
+<br>
+
+## ![PlayStation 3 - Persona 5 - SaveLoadn05](https://github.com/user-attachments/assets/409ef817-be26-4faa-9813-6be2d196b5e1) How is your Last Name Pronounced?
+
+**"Becky"**
+
+<br>
 
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5lOXFjNWE1aHFoM2Rzbnd6eXJzcXJieHk0NmxlbTNqYjl5ZmZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UNOX4x1R71hnOqtsXp/giphy.gif)
