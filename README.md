@@ -14,8 +14,6 @@
  </li> 
 </ul>
 
-<br>
-
 ## ![PlayStation 3 - Persona 5 - SaveLoadn02](https://github.com/user-attachments/assets/474a6e74-9e4a-4adb-be49-1700a6a36b4c) My Tech Stack
 
 <table>
@@ -57,8 +55,6 @@
  </tr>
 </table>
 
-<br>
-
 ## ![PlayStation 3 - Persona 5 - SaveLoadn03](https://github.com/user-attachments/assets/4e967c29-79dd-4491-8db1-a0dc313d622e) My Stats
 
 
@@ -67,16 +63,11 @@
 ![Frame 4](https://github.com/user-attachments/assets/9a93420b-c3b3-4356-b604-466effb1b05d)
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-beke&theme=radical&layout=normal&hide_border=false&include_all_commits=true&count_private=true&title_color=FC0000&text_color=E9E8E7&border_color=E9E8E7&bg_color=0C0B0B) ![PlayStation 3 - Persona 5 - SaveLoaddiv](https://github.com/user-attachments/assets/84189d32-fbd9-4ec4-8421-f9869e260b61) ![](https://github-contributor-stats.vercel.app/api?username=m-beke&limit=4&theme=radical&card_width=100px&combine_all_yearly_contributions=true&title_color=FC0000&text_color=E9E8E7&border_color=E9E8E7&bg_color=0C0B0B)
-<br>
-<br>
-<br>
 
 ## ![PlayStation 3 - Persona 5 - SaveLoadn04](https://github.com/user-attachments/assets/cc4585c7-7105-44f4-b773-b173d65879cf) My GitHub Trophies 
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m-beke&theme=buddhism&no-bg=true&no-frame=true)](https://github.com/m-beke/github-profile-trophy)
 
-<br>
 
 ## ![PlayStation 3 - Persona 5 - SaveLoadn05](https://github.com/user-attachments/assets/409ef817-be26-4faa-9813-6be2d196b5e1) How is your Last Name Pronounced?
 
