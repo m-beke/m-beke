@@ -60,7 +60,7 @@
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=m-beke&color=ffffff&bgcolor=191970&hcolor=ffb7c5)](https://github.com/KasRoudra/github-stats-card) ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5lOXFjNWE1aHFoM2Rzbnd6eXJzcXJieHk0NmxlbTNqYjl5ZmZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UNOX4x1R71hnOqtsXp/giphy.gif)
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=m-beke&layout=compact&sort=desc&color=ffffff&bgcolor=191970&hcolor=ffb7c5&minimum=0.01)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=m-beke&layout=compact&sort=desc&color=ffffff&bgcolor=191970&hcolor=ffb7c5&minimum=0.01&width=350)](https://github.com/KasRoudra/github-stats-card)
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=m-beke&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&border=FFFFFF&stroke=FFFFFF&ring=FFB7C5&fire=FFB7C5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFB7C5&excludeDaysLabel=EB545400&background=191970)](https://git.io/streak-stats)
 ## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.gif" alt="✅" width="32" height="32"> </picture> My GitHub Trophies 
 
