@@ -59,7 +59,6 @@
 <br>
 
 ## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4af/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4af/512.gif" alt="💯" width="32" height="32"> </picture> My Stats
-
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=m-beke&color=ffffff&bgcolor=191970&hcolor=ffb7c5)](https://github.com/KasRoudra/github-stats-card) ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5lOXFjNWE1aHFoM2Rzbnd6eXJzcXJieHk0NmxlbTNqYjl5ZmZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UNOX4x1R71hnOqtsXp/giphy.gif)
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=m-beke&layout=compact&sort=desc&color=ffffff&bgcolor=191970&hcolor=ffb7c5&minimum=0.01&width=350)](https://github.com/KasRoudra/github-stats-card)
