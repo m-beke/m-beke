@@ -1,4 +1,6 @@
-![github-header-image (4)](https://github.com/user-attachments/assets/11d06aaf-42e4-4a09-8497-8f9e070853cf)
+![Figma basics](https://github.com/user-attachments/assets/b919d288-efba-48a6-8b4c-f07f3c084fd7)
+
+
 
 
 
