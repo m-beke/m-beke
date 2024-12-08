@@ -1,4 +1,5 @@
-![Figma basics](https://github.com/user-attachments/assets/b919d288-efba-48a6-8b4c-f07f3c084fd7)
+![Figma basics3x](https://github.com/user-attachments/assets/fe1677bf-98c5-448c-92b1-a427fe720428)
+
 
 
 
